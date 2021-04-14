@@ -21,6 +21,7 @@ Ordered from self-custody/management to service provider.
 * [Parcel](https://parcel.money/): Crypto Treasury Management for Companies & DAO's, platform built on top of Gnosis Safe.
 * [Request Network](https://request.network/en/): Request offers simple on-chain payment requests and payouts with fully compliant digital currency invoices. 
 * [Accountable](https://accountable.dk/): Flexible and customized solutions to ensuring your business is compliant with the current regulations in the crypto-currency space, and ensuring you have a valid paper trail of your transactions and purchases.
+* [Coordinape](https://coordinape.com/) is a scalable and permissionless platform for decentralized operations built by Yearn, which allows decentralized teams and DAO’s without top down management or HR to autonomously allocate and reward contributors with funds via sybil resistant social graphs.
 
 ### Grants
 * [Uniswap's Grant Operations Best Practices](https://www.notion.so/Best-Practices-wip-957af9bde2624a3d9bf4cbd8b7592116)
