@@ -1,6 +1,6 @@
 # Awesome Crypto Operations
 
-Awesome Crypto Operations is designed to collect resources for operators running crypto companies. All are welcome to contribute.
+Awesome Crypto Operations is designed to collect resources for operators running crypto companies or DAOs. All are welcome to contribute.
 
 **Get Started**
 
@@ -21,6 +21,7 @@ Ordered from self-custody/management to service provider.
 * [Gnosis Safe](https://gnosis-safe.io/): Platform for individuals and companies to manage crypto assets, with the option to require a predefined number of signatures to confirm transactions. Requires multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto.
 * [Parcel](https://parcel.money/): Crypto Treasury Management for Companies & DAO's, platform built on top of Gnosis Safe.
 * [Request Network](https://request.network/en/): Request offers simple on-chain payment requests and payouts with fully compliant digital currency invoices. 
+* [Sourcecred](https://sourcecred.io/): A tool for communities to measure and reward value creation to make rewarding labor as nuanced as human contribution often is. It uses an algorithm to determine how much value a contribution or contributor added to a project overall.
 * [Bitwage](https://www.bitwage.com/) Solutions for receiving and paying working professionals in crypto.
 * [Accountable](https://accountable.dk/): Flexible and customized solutions to ensuring your business is compliant with the current regulations in the crypto-currency space, and ensuring you have a valid paper trail of your transactions and purchases.
 
