@@ -28,3 +28,4 @@ Ordered from self-custody/management to service provider.
 
 ### Grants
 * [Uniswap's Grant Operations Best Practices](https://www.notion.so/Best-Practices-wip-957af9bde2624a3d9bf4cbd8b7592116)
+* [Guide on launching grant programs for token network communities by Pet3rpan](https://medium.com/1kxnetwork/guide-on-launching-grant-programs-for-token-network-communities-12a2259297bb)
