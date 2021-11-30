@@ -24,6 +24,7 @@ Ordered from self-custody/management to service provider.
 * [Sourcecred](https://sourcecred.io/): A tool for communities to measure and reward value creation to make rewarding labor as nuanced as human contribution often is. It uses an algorithm to determine how much value a contribution or contributor added to a project overall.
 * [Bitwage](https://www.bitwage.com/) Solutions for receiving and paying working professionals in crypto.
 * [Accountable](https://accountable.dk/): Flexible and customized solutions to ensuring your business is compliant with the current regulations in the crypto-currency space, and ensuring you have a valid paper trail of your transactions and purchases.
+* [OnJuno](https://onjuno.com/): Set up a direct deposit and receive part of your cash paycheck in crypto in any wallet of your choice.
 
 
 ### Grants
