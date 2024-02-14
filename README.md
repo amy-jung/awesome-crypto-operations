@@ -14,11 +14,26 @@ Users are _**strongly encouraged**_ to perform their own due diligence before tr
 
 ## Table of Contents  
 
+### KYC/AML
+* [Persona](https://withpersona.com/)
+* [Provenance](https://provenancecompliance.com/)
+* [Shuftipro](https://shuftipro.com/)
+* [Sumsub](https://sumsub.com/)
+* [Synaps](https://synaps.io/)
+* [Trulioo](https://www.trulioo.com/)
+
+### EOR / Token Grants
+* [Deel](https://www.deel.com/)
+* [Multiplier](https://www.usemultiplier.com/)
+* [Papaya](https://www.papayaglobal.com/)
+* [Remofirst](https://www.remofirst.com/)
+* [Toku](https://www.toku.com/): Token payroll, token grant administration, tax compliance, local employment, world-class benefits & distributed HR solutions.
+
 ### Payroll and Accounting
 Ordered from self-custody/management to service provider.
 
 * [Coordinape](https://coordinape.com/): A permissionless platform for decentralized operations built by Yearn, which allows decentralized teams and DAO’s without top down management or HR to autonomously allocate and reward contributors with funds via sybil resistant social graphs.
-* [Gnosis Safe](https://gnosis-safe.io/): Platform for individuals and companies to manage crypto assets, with the option to require a predefined number of signatures to confirm transactions. Requires multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto.
+* [Safe](https://safe.global/wallet)): Platform for individuals and companies to manage crypto assets, with the option to require a predefined number of signatures to confirm transactions. Requires multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto.
 * [Parcel](https://parcel.money/): Crypto Treasury Management for Companies & DAO's, platform built on top of Gnosis Safe.
 * [Request Network](https://request.network/en/): Request offers simple on-chain payment requests and payouts with fully compliant digital currency invoices. 
 * [Sourcecred](https://sourcecred.io/): A tool for communities to measure and reward value creation to make rewarding labor as nuanced as human contribution often is. It uses an algorithm to determine how much value a contribution or contributor added to a project overall.
